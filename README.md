@@ -1,5 +1,5 @@
 # Github Repositories
-Here, I fetched anapi from github to display the informations in my github repositories for all the projects I have done.
+Here, I fetched an api from github to display the informations in my github repositories for all the projects I have done.
 
 ## Recommended IDE Setup
 
