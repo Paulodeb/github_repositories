@@ -1,0 +1,13 @@
+@import './base.css';
+
+a{
+  text-decoration: none;
+}
+
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(212, 95%, 16%, 0.2);
+  }
+}
+
